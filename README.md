@@ -116,6 +116,8 @@ Contributions are what make open source awesome! 🎉
 ---
 
 <p align="center">
-  ⭐ If this project helped you, please give it a star! ⭐<br />
+  ⭐ If this project helped you, please give it a star! ⭐
+</p>
+<p align="center">
   Made with ❤️ @Andrewtuff
 </p>
